@@ -1,4 +1,4 @@
 install:
   - FILE="-Dfile=richmore-windmill-adapter.aar"
-  - mvn install:install-file $FILE -DgroupId=com.hy -DartifactId=richmore-windmill-adapter -Dversion=1.8.1 -Dpackaging=aar -DpomFile=pom.xml
+  - mvn install:install-file $FILE -DgroupId=com.hy -DartifactId=richmore-windmill-adapter -Dversion=1.8.4 -Dpackaging=aar -DpomFile=pom.xml
 
